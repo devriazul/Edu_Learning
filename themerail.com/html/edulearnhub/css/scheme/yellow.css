@@ -1,0 +1,260 @@
+/*-----------------------
+Default color scheme
+-----------------------*/
+/*** Color ***/
+a, .elh-section-header .elh-section-title span,
+.elh-price-now,
+.elh-student-count .fa, .elh-comment-count .fa,
+.all-link:hover,
+.elh-header-left-style h3 span,
+.elh-subscribe-form [type=submit],
+.elh-footer-widget-area .widget-title,
+footer a:hover,
+.copyright a, .elh-course-title a:hover,
+.elh-instructor-title a:hover,
+.elh-event-title a:hover,
+.star-on,
+.elh-post-title a:hover,
+.elh-register-header .tcount,
+.registration-form .form-body [type=submit]:hover,
+.elh-mini-section-title span, .elh-instructor.style-2 .elh-instructor-title,
+.plyr .plyr__play-large,
+.plyr__progress--played, .plyr__volume--display,
+.elh-counter-group.style-2 .elh-fact-number,
+.elh-instructor-carousel .owl-prev:hover, .elh-instructor-carousel .owl-next:hover,
+.elh-theme-bg .btn, .elh-theme-bg .btn:focus, .elh-theme-bg .btn:visited, .elh-theme-bg .btn:active, .elh-theme-bg .btn:focus:visited, .elh-theme-bg .btn:focus:active, .elh-theme-bg .btn:visited:active, .elh-theme-bg .btn:focus:visited:active,
+.contact-info-item .fa,
+.simple-video-play .fa,
+.simple-video-play:hover,
+.elh-grid-section .elh-grid-filter button:hover,
+.elh-counter-group.style-3 .elh-counter-item .fact-icon,
+.elh-featured-courses .featured-course .featured-course-icon,
+.online-education-fact .registration-form [type=submit]:hover,
+.campus-item .campus-name a:hover,
+.elh-post .elh-post-video:before,
+.panel-group .panel .panel-heading .panel-title a:after,
+.btn.btn-border,
+.elh-theme-color,
+footer.elh-kids-footer .elh-footer-upper .socials a:hover,
+footer.elh-kids-footer .elh-footer-lower-area .copyright a:hover,
+.post-pagination .page-numbers:hover,
+.sidebar .search_widget form [type=submit],
+.sidebar .categories li a:hover,
+.sidebar .widget-post .widget-post-title:hover,
+.sidebar .widget-post .widget-price,
+.panel-group.style-3 .panel .panel-heading .panel-title a[aria-expanded=true],
+.elh-product .elh-product-name a:hover,
+.elh-product-price .elh-product-price-now,
+.elh-rating-star .rate-star.on,
+.elh-product-single .elh-product-review .elh-product-review-count,
+.navbar .navbar-nav > li.active > a,
+.navbar .navbar-nav > li:hover > a,
+.navbar .navbar-search-toggle,
+.navbar.fix-nav .navbar-nav > li:hover > a,
+.elh-banner .elh-banner-facts .elh-banner-fact .banner-fact-number {
+  color: #ffd600;
+}
+
+/*** Background Color ***/
+.elh-section-header .elh-section-title:after,
+.btn, .btn:focus, .btn:visited, .btn:active, .btn:focus:visited, .btn:focus:active, .btn:focus:visited:active,
+.elh-generic-carousel .owl-prev:hover, .elh-generic-carousel .owl-next:hover,
+.instructor-comments, .elh-theme-bg,
+.elh-instructor .elh-instructor-field:after,
+.elh-event-date,
+.elh-footer-widget-area .widget .socials a:hover,
+.registration-form label,
+.registration-form .form-body [type=submit],
+.elh-mini-section-title:after,
+.elh-single-carousel .owl-prev:hover, .elh-single-carousel .owl-next:hover,
+.plyr--video .plyr__controls button.tab-focus:focus, .plyr--video .plyr__controls button:hover,
+.all-link.style-2,
+.elh-grid-section .elh-grid-filter button.active,
+.elh-instructor-counter-group .elh-counter-item,
+.elh-footer-widget-area .widget .elh-subscribe-form [type=submit],
+.elh-featured-courses,
+.online-education-fact .registration-form [type=submit],
+.elh-quick-links,
+.elh-highlight,
+.elh-post:hover .elh-post-video:before,
+.panel-group .panel .panel-heading .panel-title a[aria-expanded="true"],
+.btn.btn-border:hover, .btn.btn-border:hover:focus, .btn.btn-border:hover:visited, .btn.btn-border:hover:active, .btn.btn-border:hover:focus:visited, .btn.btn-border:hover:focus:active, .btn.btn-border:hover:visited:active, .btn.btn-border:hover:focus:visited:active,
+.elh-info-box.elh-theme-bg,
+.post-pagination .page-numbers.current,
+.sidebar .widget-title:after,
+.sidebar .tags a:hover,
+.panel-group.style-2 .panel .panel-heading .panel-title a,
+.elh-product .elh-product-attr span.sale,
+.elh-product .elh-product-btns a,
+.elh-single-product-gallery .owl-buttons .owl-prev, .elh-single-product-gallery .owl-buttons .owl-next,
+.elh-product-single .elh-order-form [type=submit],
+.elh-product-single-tab .nav-tabs > li.active > a,
+.navbar .navbar-nav .dropdown-menu li a:hover,
+.elh-topbar,
+.elh-topbar .language-select li a:hover,
+.elh-topbar .language-select li.current a,
+.elh-banner .banner-registration [type=submit],
+.navbar.affix.style-2 {
+  background-color: #ffd600;
+}
+
+/*** Border Color ***/
+.btn, .btn:focus, .btn:visited, .btn:active, .btn:focus:visited, .btn:focus:active, .btn:focus:visited:active,
+.elh-generic-carousel .owl-prev:hover, .elh-generic-carousel .owl-next:hover,
+input:not([type=submit]):not([type=radio]):not([type=checkbox]):focus, input:not([type=submit]):not([type=radio]):not([type=checkbox]):active, select:focus, select:active, textarea:focus, textarea:active,
+.registration-form,
+.registration-form .form-body [type=submit],
+.elh-single-carousel .owl-prev:hover, .elh-single-carousel .owl-next:hover,
+.all-link.style-2,
+.elh-grid-section .elh-grid-filter button.active,
+.elh-book .btn:hover,
+.elh-footer-widget-area .widget .elh-subscribe-form [type=submit],
+.online-education-fact .registration-form [type=submit],
+.elh-post .elh-post-video:before,
+.panel-group .panel .panel-heading .panel-title a[aria-expanded="true"],
+.elh-theme-bg .btn.btn-border:hover, .elh-theme-bg .btn.btn-border:hover:focus, .elh-theme-bg .btn.btn-border:hover:visited, .elh-theme-bg .btn.btn-border:hover:active, .elh-theme-bg .btn.btn-border:hover:focus:visited, .elh-theme-bg .btn.btn-border:hover:focus:active, .elh-theme-bg .btn.btn-border:hover:visited:active, .elh-theme-bg .btn.btn-border:hover:focus:visited:active, .elh-img-bg .btn.btn-border:hover, .elh-img-bg .btn.btn-border:hover:focus, .elh-img-bg .btn.btn-border:hover:visited, .elh-img-bg .btn.btn-border:hover:active, .elh-img-bg .btn.btn-border:hover:focus:visited, .elh-img-bg .btn.btn-border:hover:focus:active, .elh-img-bg .btn.btn-border:hover:visited:active, .elh-img-bg .btn.btn-border:hover:focus:visited:active,
+.elh-info-box.elh-theme-bg,
+.post-pagination .page-numbers:hover,
+.post-pagination .page-numbers.current,
+.sidebar .tags a:hover,
+.panel-group.style-2 .panel .panel-heading .panel-title a,
+.elh-product-single .elh-order-form [type=submit],
+.elh-product-single-tab .nav-tabs > li.active > a,
+.navbar .navbar-searchform input:not([type=submit]),
+.banner-overlay .btn.btn-border:hover,
+.elh-banner .banner-registration [type=submit] {
+  border-color: #ffd600;
+}
+
+/*** Fill Color ***/
+.plyr .plyr__play-large svg {
+  fill: #ffd600;
+}
+
+/*** Transparent Color   ***/
+.elh-instructor.style-3 .elh-instructor-hover {
+  background-color: rgba(255, 214, 0, 0.8);
+}
+
+/*** Secondary Color ***/
+a:hover {
+  color: #232b2d;
+}
+
+/*** Secondary Background ***/
+footer {
+  background-color: #232b2d;
+}
+
+/***
+Button hover to white ***/
+.btn:hover, .btn:hover:focus, .btn:hover:visited, .btn:hover:active, .btn:hover:focus:visited, .btn:hover:focus:active, .btn:hover:focus:visited:active {
+  background-color: transparent;
+  color: #ffd600;
+  border-color: #ffd600;
+}
+
+/***  Color mixin ***/
+.elh-highlight .elh-highlight-title:after {
+  background-color: #ccab00;
+}
+
+/*** Styles for kindergarten ***/
+.elh-info-box.elh-blue-bg {
+  background-color: #00bcd4;
+  border-color: #00bcd4;
+}
+
+.elh-info-box.elh-green-bg {
+  background-color: #7fba00;
+  border-color: #7fba00;
+}
+
+.elh-info-box.elh-orange-bg {
+  background-color: #ff6800;
+  border-color: #ff6800;
+}
+
+.elh-blue-bg {
+  background-color: #00bcd4;
+  color: #ffffff;
+}
+
+.elh-theme-color .facility-hover:after {
+  background-color: rgba(255, 214, 0, 0.4);
+}
+
+.elh-blue-color {
+  color: #00bcd4 !important;
+}
+.elh-blue-color .facility-hover:after {
+  background-color: rgba(0, 188, 212, 0.4);
+}
+
+.elh-yellow-color {
+  color: #ffd600 !important;
+}
+.elh-yellow-color .facility-hover:after {
+  background-color: rgba(255, 214, 0, 0.4);
+}
+
+.elh-orange-color {
+  color: #ff6800 !important;
+}
+.elh-orange-color .facility-hover:after {
+  background-color: rgba(255, 104, 0, 0.4);
+}
+
+.elh-green-color {
+  color: #7fba00 !important;
+}
+.elh-green-color .facility-hover:after {
+  background-color: rgba(127, 186, 0, 0.4);
+}
+
+.elh-orange-color {
+  color: #ff6800 !important;
+}
+.elh-orange-color .facility-hover:after {
+  background-color: rgba(255, 104, 0, 0.4);
+}
+
+.elh-limegreen-color {
+  color: #00ff78 !important;
+}
+.elh-limegreen-color .facility-hover:after {
+  background-color: rgba(0, 255, 120, 0.4);
+}
+
+.elh-red-color {
+  color: #f51d46 !important;
+}
+.elh-red-color .facility-hover:after {
+  background-color: rgba(245, 29, 70, 0.4);
+}
+
+.elh-purple-color {
+  color: #8400ff !important;
+}
+.elh-purple-color .facility-hover:after {
+  background-color: rgba(132, 0, 255, 0.4);
+}
+
+.btn.btn-shade:hover {
+  color: #ffd600 !important;
+}
+
+/*** Responsive Color ***/
+.navbar .navbar-toggle {
+  border-color: #ffd600;
+  background-color: #ffd600;
+}
+.navbar .navbar-toggle.collapsed .icon-bar {
+  background-color: #ffd600;
+}
+.navbar.fix-nav.style-2 .navbar-toggle .icon-bar {
+  background-color: #ffd600;
+}
+.plyr input[type=range]:active::-webkit-slider-thumb {
+	background-color: #ffd600;
+}

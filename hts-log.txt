@@ -1,0 +1,66 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 13 Mar 2018 18:15:22 at http://themerail.com/html/edulearnhub/home_online_education.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themerail.com/html/edulearnhub/home_online_education.html -O1 "F:\website copy\online elearning\new" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:27:23	Error: 	"Not Found" (404) at link themerail.com/html/edulearnhub/course_hub.html (from themerail.com/html/edulearnhub/home_online_education.html)
+18:36:38	Error: 	"Not Found" (404) at link themerail.com/html/edulearnhub/instructor-single.html (from themerail.com/html/edulearnhub/home_online_education.html)
+18:36:38	Warning: 	Retry after error -4 (Incorrect length (597396 Bytes, 899481 expected)) at link themerail.com/html/edulearnhub/images/banner/1.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:36:53	Warning: 	Retry after error -4 (Incorrect length (345131 Bytes, 831478 expected)) at link themerail.com/html/edulearnhub/images/banner/2.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:36:57	Warning: 	Retry after error -4 (Incorrect length (350399 Bytes, 1074429 expected)) at link themerail.com/html/edulearnhub/images/banner/3.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:37:02	Warning: 	Retry after error -4 (Incorrect length (461708 Bytes, 1359722 expected)) at link themerail.com/html/edulearnhub/images/banner/6.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:37:11	Warning: 	Retry after error -2 (Receive Time Out) at link themerail.com/html/edulearnhub/images/banner/7.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:37:23	Warning: 	Retry after error -2 (Receive Time Out) at link themerail.com/html/edulearnhub/images/banner/9.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:37:25	Warning: 	Retry after error -4 (Incorrect length (7129 Bytes, 879655 expected)) at link themerail.com/html/edulearnhub/images/banner/12.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:37:29	Warning: 	Retry after error -4 (Incorrect length (573146 Bytes, 1074335 expected)) at link themerail.com/html/edulearnhub/images/bg/3.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:37:51	Warning: 	Retry after error -2 (Receive Time Out) at link themerail.com/html/edulearnhub/images/bg/7.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:38:15	Warning: 	Retry after error -2 (Receive Time Out) at link themerail.com/html/edulearnhub/images/bg/9.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:39:29	Warning: 	Retry after error -4 (Incorrect length (572599 Bytes, 1328751 expected)) at link themerail.com/html/edulearnhub/images/bg/10.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:39:32	Warning: 	Retry after error -4 (Incorrect length (382949 Bytes, 1359716 expected)) at link themerail.com/html/edulearnhub/images/bg/14.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:39:53	Warning: 	Retry after error -2 (Receive Time Out) at link themerail.com/html/edulearnhub/images/bg/17.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:40:17	Error: 	"Not Found" (404) at link themerail.com/html/edulearnhub/blog-single.html (from themerail.com/html/edulearnhub/home_education_1.html)
+18:40:17	Error: 	"Not Found" (404) at link themerail.com/html/edulearnhub/event.html (from themerail.com/html/edulearnhub/home_education_2.html)
+18:40:17	Error: 	"Not Found" (404) at link themerail.com/html/edulearnhub/blog.html (from themerail.com/html/edulearnhub/home_education_2.html)
+18:40:17	Error: 	"Not Found" (404) at link themerail.com/html/edulearnhub/testimonial.html (from themerail.com/html/edulearnhub/home_education_2.html)
+18:40:17	Warning: 	Retry after error -4 (Incorrect length (239202 Bytes, 599198 expected)) at link themerail.com/html/edulearnhub/images/bg/join-us.jpg (from themerail.com/html/edulearnhub/home_university.html)
+18:42:19	Error: 	"Not Found" (404) at link themerail.com/html/edulearnhub/kindergarten_school.html (from themerail.com/html/edulearnhub/home_kindergarten_school.html)
+18:42:19	Error: 	"Not Found" (404) at link themerail.com/html/edulearnhub/lesson-single.html (from themerail.com/html/edulearnhub/course-single.html)
+18:42:19	Error: 	"Not Found" (404) at link themerail.com/html/edulearnhub/course-single-2.html (from themerail.com/html/edulearnhub/lesson.html)
+18:42:19	Warning: 	Retry after error -4 (Incorrect length (741034 Bytes, 899481 expected)) at link themerail.com/html/edulearnhub/images/banner/1.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:42:19	Warning: 	Retry after error -4 (Incorrect length (568522 Bytes, 831478 expected)) at link themerail.com/html/edulearnhub/images/banner/2.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:42:19	Warning: 	Retry after error -4 (Incorrect length (515703 Bytes, 1074429 expected)) at link themerail.com/html/edulearnhub/images/banner/3.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:42:19	Warning: 	Retry after error -4 (Incorrect length (378529 Bytes, 729598 expected)) at link themerail.com/html/edulearnhub/images/banner/7.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:42:21	Warning: 	Retry after error -4 (Incorrect length (37317 Bytes, 659962 expected)) at link themerail.com/html/edulearnhub/images/banner/9.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:07	Error: 	Exit requested by shell or user
+18:44:20	Warning: 	Retry after error -2 (Receive Time Out) at link themerail.com/html/edulearnhub/images/banner/12.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:20	Warning: 	Retry after error -2 (Receive Time Out) at link themerail.com/html/edulearnhub/images/bg/3.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:20	Warning: 	Retry after error -2 (Receive Time Out) at link themerail.com/html/edulearnhub/images/bg/7.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:20	Warning: 	Retry after error -2 (Receive Time Out) at link themerail.com/html/edulearnhub/images/bg/9.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:20	Warning: 	Retry after error -2 (Receive Time Out) at link themerail.com/html/edulearnhub/images/bg/10.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:20	Warning: 	Retry after error -2 (Receive Time Out) at link themerail.com/html/edulearnhub/images/bg/17.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:20	Warning: 	Retry after error -2 (Receive Time Out) at link themerail.com/html/edulearnhub/images/bg/join-us.jpg (from themerail.com/html/edulearnhub/home_university.html)
+18:44:20	Error: 	"Receive Time Out" (-2) after 2 retries at link themerail.com/html/edulearnhub/images/banner/1.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:20	Error: 	"Incorrect length (575235 Bytes, 831478 expected)" (-4) after 2 retries at link themerail.com/html/edulearnhub/images/banner/2.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:22	Error: 	"Receive Time Out" (-2) after 2 retries at link themerail.com/html/edulearnhub/images/banner/3.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:22	Error: 	"Receive Time Out" (-2) after 2 retries at link themerail.com/html/edulearnhub/images/banner/7.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:23	Error: 	"Receive Time Out" (-2) after 2 retries at link themerail.com/html/edulearnhub/images/banner/9.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:23	Warning: 	File not added due to mirror cancel: themerail.com/html/edulearnhub/images/banner/12.jpg
+18:44:23	Error: 	"mirror stopped by user" (-1) at link themerail.com/html/edulearnhub/images/banner/12.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:23	Warning: 	File not added due to mirror cancel: themerail.com/html/edulearnhub/images/bg/3.jpg
+18:44:23	Error: 	"mirror stopped by user" (-1) at link themerail.com/html/edulearnhub/images/bg/3.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:23	Warning: 	File not added due to mirror cancel: themerail.com/html/edulearnhub/images/bg/7.jpg
+18:44:23	Error: 	"mirror stopped by user" (-1) at link themerail.com/html/edulearnhub/images/bg/7.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:23	Warning: 	File not added due to mirror cancel: themerail.com/html/edulearnhub/images/bg/9.jpg
+18:44:23	Error: 	"mirror stopped by user" (-1) at link themerail.com/html/edulearnhub/images/bg/9.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:23	Warning: 	File not added due to mirror cancel: themerail.com/html/edulearnhub/images/bg/10.jpg
+18:44:23	Error: 	"mirror stopped by user" (-1) at link themerail.com/html/edulearnhub/images/bg/10.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:23	Warning: 	File not added due to mirror cancel: themerail.com/html/edulearnhub/images/bg/17.jpg
+18:44:23	Error: 	"mirror stopped by user" (-1) at link themerail.com/html/edulearnhub/images/bg/17.jpg (from themerail.com/html/edulearnhub/css/style.css)
+18:44:23	Warning: 	File not added due to mirror cancel: themerail.com/html/edulearnhub/images/bg/join-us.jpg
+18:44:23	Error: 	"mirror stopped by user" (-1) at link themerail.com/html/edulearnhub/images/bg/join-us.jpg (from themerail.com/html/edulearnhub/home_university.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 minutes 1 seconds : 361 links scanned, 313 files written (32297590 bytes overall) [34343429 bytes received at 19726 bytes/sec], 2725989 bytes transferred using HTTP compression in 79 files, ratio 24%, 7.2 requests per connection
+(22 errors, 33 warnings, 0 messages)

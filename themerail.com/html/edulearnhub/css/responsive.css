@@ -1,0 +1,1184 @@
+@media screen and (max-width: 1199px) {
+  .elh-course .elh-course-content {
+    padding: 15px;
+  }
+  .elh-course .elh-course-price {
+    width: 54%;
+  }
+  .elh-course .elh-course-metas {
+    width: 46%;
+  }
+  .elh-course .elh-course-metas span + span {
+    margin-left: 15px;
+  }
+
+  .elh-mini-section .elh-event .elh-event-date + .elh-event-detail {
+    margin-top: 0;
+  }
+
+  .elh-mini-section .elh-event .elh-event-metas span + span {
+    margin-left: 0;
+  }
+
+  .elh-info-box.style-2 {
+    padding: 25px 9px 30px;
+  }
+
+  .elh-banner.style-7 .banner-content {
+    margin-top: 0;
+  }
+  .elh-banner.style-7 .banner-content .elh-banner-title {
+    font-size: 4.8rem;
+  }
+
+  .tag-item {
+    font-size: 2.4rem;
+  }
+
+  .elh-event .elh-event-metas span + span {
+    margin-left: 40px;
+  }
+
+  .course-sidebar .sidebar-affix.affix {
+    width: 293.33px;
+  }
+
+  .elh-course-pdf-curriculum .elh-pdf-download-link {
+    display: block;
+    float: none !important;
+  }
+
+  .elh-instructor-facts .elh-instructor-fact-item p {
+    font-size: 2.4rem;
+  }
+
+  .elh-lesson-list-wrap {
+    width: 360px;
+  }
+
+  .elh-lesson-list-wrap.lesson-list-showing + .elh-lesson-content-wrap {
+    left: 360px;
+  }
+
+  .elh-lesson-list-wrap .panel-group.elh-curriculum-accordion .panel .panel-heading .panel-title a .elh-chapter-lesson-count {
+    display: none;
+  }
+
+  .elh-lesson-list-wrap .panel-group.elh-curriculum-accordion .panel .panel-heading .panel-title a .elh-chapter-meta {
+    width: 90px;
+  }
+
+  .elh-lesson-list-wrap .panel-group.elh-curriculum-accordion .panel .panel-heading .panel-title a .elh-chapter-duration {
+    width: 90px;
+    min-width: 90px !important;
+  }
+
+  .elh-lesson-list-wrap .panel-group.elh-curriculum-accordion .panel .panel-heading .panel-title a .elh-chapter-title {
+    width: calc(100% - 120px);
+  }
+
+  .elh-lesson-list-wrap .elh-lesson-list .elh-lesson-item > a {
+    padding: 10px 15px;
+  }
+
+  .elh-lesson-list-wrap .elh-lesson-list .elh-lesson-item .elh-lesson-preview-link {
+    margin-right: 20px;
+  }
+
+  .elh-lesson-list-wrap .elh-lesson-list .elh-lesson-item .elh-lesson-item-right {
+    width: 115px;
+  }
+
+  .elh-lesson-list-wrap .elh-lesson-list .elh-lesson-item .elh-lesson-item-left {
+    width: calc(100% - 115px);
+  }
+}
+@media screen and (max-width: 991px) {
+  .navbar .navbar-header {
+    float: none;
+  }
+  .navbar .navbar-left,
+  .navbar .navbar-right {
+    float: none !important;
+    margin: 15px 0;
+  }
+  .navbar .navbar-toggle {
+    display: block;
+    margin-right: 0;
+    margin-top: 23px;
+    margin-bottom: 23px;
+    border-radius: 3px;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
+  .navbar .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
+  .navbar .navbar-toggle.collapsed {
+    background-color: transparent;
+  }
+  .navbar .navbar-collapse {
+    border-top: 1px solid transparent;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+            box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    position: absolute;
+    right: 0;
+    left: auto;
+    width: 360px;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  }
+  .navbar .navbar-search {
+    margin-right: 0;
+  }
+  .navbar .navbar-search .navbar-search-toggle {
+    display: none;
+  }
+  .navbar .navbar-search .navbar-searchform {
+    display: block;
+    position: relative;
+    top: 0;
+    width: 100%;
+  }
+  .navbar .navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+  }
+  .navbar .navbar-collapse.collapse {
+    display: none !important;
+  }
+  .navbar .navbar-nav {
+    float: none !important;
+    margin-top: 7.5px;
+    max-height: 400px;
+    overflow: auto;
+  }
+  .navbar .navbar-nav li {
+    clear: both;
+  }
+  .navbar .navbar-nav .dropdown a:after {
+    content: none;
+  }
+  .navbar .navbar-nav .dropdown:before {
+    content: "\f067";
+    font-family: "FontAwesome";
+    line-height: 20px;
+    float: right;
+    padding: 10px 0;
+  }
+  .navbar .navbar-nav .dropdown .dropdown-menu {
+    display: none;
+    position: relative;
+    width: 100%;
+    left: 0 !important;
+    right: 0 !important;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transform: rotateX(0);
+            transform: rotateX(0);
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
+  .navbar .navbar-nav .dropdown .dropdown-menu li a {
+    padding: 6px 10px;
+  }
+  .navbar .navbar-nav > li {
+    float: none;
+  }
+  .navbar .navbar-nav > li > a {
+    padding: 10px 0;
+    display: inline-block;
+  }
+  .navbar .collapse.in {
+    display: block !important;
+  }
+  .navbar.fix-nav .navbar-collapse {
+    background-color: #262626;
+  }
+  .navbar.fix-nav .navbar-nav .dropdown:before {
+    color: #ffffff;
+  }
+  .navbar.fix-nav.style-2 .navbar-toggle {
+    border-color: #ffffff;
+    background-color: #ffffff;
+  }
+  .navbar.fix-nav.style-2 .navbar-toggle.collapsed {
+    background-color: transparent;
+  }
+  .navbar.fix-nav.style-2 .navbar-toggle.collapsed .icon-bar {
+    background-color: #ffffff;
+  }
+  .navbar.affix .navbar-toggle {
+    margin-top: 13px;
+    margin-bottom: 13px;
+  }
+  .navbar.affix .navbar-nav > li > a {
+    padding: 10px 0;
+  }
+
+  .elh-banner .elh-banner-item {
+    height: 600px;
+  }
+  .elh-banner .banner-content {
+    margin-top: 0;
+  }
+  .elh-banner.style-3 .banner-content {
+    margin-top: -30px;
+  }
+  .elh-banner.style-5 .elh-banner-item {
+    height: 600px;
+  }
+  .elh-banner.style-5 .banner-content .elh-banner-title {
+    font: 3.6rem;
+  }
+  .elh-banner.style-5 .banner-content .elh-banner-title br {
+    display: none;
+  }
+  .elh-banner .elh-banner-facts {
+    margin-top: 40px;
+  }
+  .elh-banner .elh-banner-facts .elh-banner-fact {
+    padding: 0 30px 15px;
+    width: 200px;
+  }
+  .elh-banner .elh-banner-facts .elh-banner-fact .banner-fact {
+    margin-top: 0;
+  }
+
+  .elh-mini-section {
+    margin-bottom: 20px;
+  }
+
+  .elh-info-box {
+    padding: 20px;
+  }
+
+  .elh-register-header {
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+
+  .registration-form label {
+    display: block;
+  }
+
+  .elh-cta .elh-overlay {
+    padding: 120px 0;
+  }
+  .elh-cta .cta-title {
+    font-size: 3.6rem;
+  }
+
+  .elh-carousel-section .owl-buttons {
+    top: -170px;
+  }
+
+  .elh-footer-widgets {
+    margin-bottom: -30px;
+  }
+  .elh-footer-widgets .widget {
+    margin-bottom: 30px;
+  }
+  .elh-footer-widgets > .col-xs-6:nth-child(2n + 1) {
+    clear: left;
+  }
+
+  .elh-subscribe-form {
+    max-width: 100%;
+  }
+
+  .sm-bottom-30 {
+    margin-bottom: 30px;
+  }
+
+  .elh-instructor-carousel .owl-buttons {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .elh-instructor-carousel .owl-prev,
+  .elh-instructor-carousel .owl-next {
+    position: relative;
+    left: 0;
+    right: 0;
+    display: inline-block;
+    margin: 0 10px;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+
+  .elh-featured-courses.elh-banner-featured-course .featured-course {
+    width: calc(33.333333% - 18px);
+    margin-bottom: 20px;
+    padding: 20px 10px;
+  }
+
+  .elh-category-small {
+    margin-bottom: 10px;
+  }
+  .elh-category-small img {
+    width: 100%;
+  }
+
+  .elh-courses-small .elh-course-thumb img {
+    width: 100%;
+  }
+
+  .elh-cta.style-3 .elh-overlay {
+    padding: 90px 0;
+  }
+
+  .sm-text-left {
+    text-align: left;
+  }
+
+  .elh-cta.style-3 .simple-video-play,
+  .elh-cta.style-5 .simple-video-play {
+    margin-top: 25px;
+  }
+
+  .elh-banner.style-6 .elh-banner-item {
+    height: 600px;
+  }
+
+  .elh-featured-courses.upfloat-style {
+    margin-top: 0px;
+    margin-bottom: 90px;
+  }
+
+  .elh-highlight.upfloat-style {
+    margin-top: 30px;
+  }
+
+  .elh-gallery.mini-gallery .elh-gallery-item img {
+    width: 100%;
+  }
+
+  .partner-logoes {
+    padding: 0;
+  }
+
+  .elh-display-flex .elh-flex-absolute {
+    position: relative;
+    top: 0;
+    bottom: auto;
+    left: 0;
+    right: 0;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    border: none;
+  }
+
+  .elh-display-flex .elh-flex-content {
+    position: relative;
+    top: 0;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    padding: 0;
+    margin-bottom: 30px;
+  }
+
+  .elh-display-flex .elh-flex-relative {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .sidebar {
+    margin-top: 60px;
+  }
+
+  .contact-location {
+    height: 450px;
+  }
+
+  .elh-header-floatbox .elh-course-profile .elh-course-profile-item:not(.elh-instructor-thumb) {
+    min-width: 90px;
+  }
+
+  .elh-header-floatbox .elh-course-profile .elh-course-profile-item + .elh-course-profile-item {
+    margin-left: 20px;
+  }
+
+  .elh-page-header.has-floatbox .elh-overlay {
+    padding-bottom: 130px;
+  }
+
+  .course-sidebar .sidebar-affix {
+    position: relative;
+    margin-top: 60px;
+  }
+  .course-sidebar .sidebar-affix.affix {
+    position: relative;
+    width: 100%;
+    top: 0;
+  }
+
+  .elh-instructor-facts .elh-instructor-fact-item {
+    width: calc(50% - 10px);
+  }
+  .elh-instructor-facts .elh-instructor-fact-item + .elh-instructor-fact-item {
+    margin-left: 0;
+  }
+
+  .elh-instructor-thumb {
+    max-width: 370px;
+    margin: 0 auto;
+  }
+
+  .elh-contact-instructor {
+    max-width: 370px;
+    margin: 30px auto 0;
+  }
+
+  .elh-instructor-single-socials {
+    margin-bottom: 50px;
+  }
+
+  .elh-lesson-list-wrap {
+    width: 100%;
+    height: auto;
+    position: relative;
+    left: 0;
+  }
+
+  .elh-lesson-content-wrap {
+    position: relative;
+  }
+
+  .elh-lesson-content {
+    position: relative;
+    top: 0;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+
+  .elh-lesson-list-wrap.lesson-list-showing + .elh-lesson-content-wrap {
+    left: 0;
+  }
+
+  .navbar.navbar-lesson .elh-lesson-list-toggle {
+    display: none;
+  }
+}
+@media screen and (max-width: 767px) {
+  .navbar .container-fluid > .navbar-collapse,
+  .navbar .container-fluid > .navbar-header,
+  .navbar .container > .navbar-collapse,
+  .navbar .container > .navbar-header {
+    margin-right: 0;
+  }
+  .navbar .navbar-toggle {
+    margin-right: 15px;
+  }
+
+  .elh-header-left-style {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 0;
+  }
+
+  .partner-logoes {
+    padding: 0;
+  }
+  .partner-logoes .partner-logo {
+    width: 33.333333%;
+  }
+  .partner-logoes .partner-logo:nth-child(3n + 1) {
+    margin-left: 17%;
+  }
+  .partner-logoes .partner-logo:first-child {
+    margin-left: 0;
+  }
+
+  .elh-subscribe-heading {
+    text-align: center;
+  }
+
+  .elh-subscribe-form {
+    margin: 10px auto 0;
+  }
+
+  .xs-pull-center {
+    float: none !important;
+  }
+
+  .xs-text-center {
+    text-align: center;
+  }
+
+  .elh-category-tile .elh-category-tile-content {
+    left: 35px;
+    right: 35px;
+  }
+
+  .fact-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .fact-title:before {
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+  }
+
+  .elh-counter-group {
+    text-align: center;
+  }
+
+  .elh-banner .banner-content .elh-banner-title br {
+    display: none;
+  }
+
+  .elh-section.elh-float-top-half {
+    margin-top: 90px;
+  }
+
+  .elh-instructor.style-2 {
+    max-width: 370px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .partner-logoes.style-2 .partner-logo {
+    width: 33.333333%;
+  }
+  .partner-logoes.style-2 .partner-logo:nth-child(3n + 1) {
+    margin-left: 0;
+  }
+
+  .elh-counter-group .elh-counter-item + .elh-counter-item {
+    margin-left: 60px;
+  }
+
+  .elh-featured-courses.elh-banner-featured-course {
+    display: none;
+  }
+
+  .elh-banner.style-4 .elh-banner-item {
+    height: 600px;
+  }
+
+  .elh-banner.style-4 .banner-content {
+    bottom: auto;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+  }
+
+  .office-location {
+    height: 320px;
+  }
+
+  .elh-kids-description {
+    padding: 0;
+  }
+
+  .elh-cta.style-6 .cta-title {
+    margin-bottom: 20px;
+  }
+
+  .elh-country-flag {
+    margin-left: 15px;
+  }
+
+  .elh-banner .elh-banner-facts {
+    display: none;
+  }
+
+  .elh-banner.style-5 .banner-content {
+    bottom: auto;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+    margin-top: 0;
+  }
+
+  .elh-grid-section .elh-grid-filter {
+    top: 0;
+    right: 0;
+    position: relative;
+    margin-left: 15px;
+    margin-bottom: 25px;
+  }
+
+  .elh-banner.style-6 .elh-banner-item {
+    height: 480px;
+  }
+  .elh-banner.style-6 .elh-banner-item .banner-content .elh-banner-title {
+    font-size: 3.6rem;
+  }
+
+  .online-education-fact .registration-form input:not([type=submit]):not([type=radio]):not([type=checkbox]),
+  .online-education-fact .registration-form select,
+  .online-education-fact .registration-form textarea {
+    margin-bottom: 10px;
+  }
+
+  .contact-location {
+    height: 350px;
+  }
+
+  .xs-bottom-30 {
+    margin-bottom: 30px;
+  }
+
+  .elh-single-product-gallery .owl-item img {
+    width: 100%;
+  }
+
+  .elh-product-single .elh-product-body {
+    margin-top: 30px;
+    margin-left: 0;
+  }
+
+  .elh-page-header.has-floatbox .elh-overlay {
+    padding-bottom: 70px;
+  }
+
+  .elh-page-header.has-floatbox {
+    margin-bottom: 0;
+  }
+
+  .elh-header-floatbox {
+    position: relative;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .elh-header-floatbox .elh-course-profile .elh-course-profile-item {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .checklist.half-list li {
+    width: 100%;
+  }
+
+  .elh-student-thumb {
+    max-width: 370px;
+    margin: 0 auto;
+  }
+}
+@media screen and (max-width: 639px) {
+  .elh-course {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 370px;
+  }
+
+  .elh-instructor {
+    max-width: 370px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .elh-post {
+    max-width: 370px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .navbar .navbar-collapse {
+    width: 100%;
+  }
+
+  .elh-courses-grid .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-posts .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-classes .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-class {
+    max-width: 370px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .elh-courses-isotope .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-page-header .elh-page-title {
+    font-size: 3rem;
+  }
+
+  .elh-page-header .elh-overlay {
+    padding-top: 110px;
+    padding-bottom: 30px;
+  }
+
+  .elh-posts-listing .col-xs-6 {
+    width: 100%;
+  }
+  .elh-posts-listing .col-xs-6 .elh-post {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .elh-posts-listing .elh-post.style-4 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .elh-course-listing .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-courses-isotope .elh-gallery-item {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 370px;
+  }
+
+  .elh-related-course .col-xs-6 {
+    width: 100%;
+  }
+  .elh-related-course .elh-course {
+    margin-bottom: 30px;
+  }
+}
+@media screen and (max-width: 579px) {
+  .elh-banner .elh-banner-item {
+    height: 480px;
+  }
+  .elh-banner .banner-content .elh-banner-title {
+    font-size: 3.2rem;
+  }
+
+  .elh-carousel-section .all-link {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: auto;
+    margin-top: 15px;
+  }
+  .elh-carousel-section .owl-buttons {
+    top: 0;
+    position: relative;
+    left: 0;
+    right: auto;
+    text-align: center;
+    margin-top: 15px;
+  }
+
+  .elh-footer-widgets > .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-event .elh-event-metas span + span {
+    margin-left: 30px;
+  }
+
+  .elh-section-padding-big {
+    padding: 90px 0;
+  }
+
+  .elh-topbar {
+    line-height: 30px;
+  }
+  .elh-topbar .col-xs-4,
+  .elh-topbar .col-xs-8 {
+    width: 100%;
+    text-align: center;
+  }
+
+  .elh-counter-group .elh-counter-item .elh-fact-number {
+    font-size: 2.8rem;
+  }
+
+  .elh-counter-group .elh-counter-item + .elh-counter-item {
+    margin-left: 30px;
+  }
+
+  .elh-banner.style-6 .elh-banner-item {
+    height: 370px;
+  }
+
+  .elh-banner.style-7 .elh-banner-item {
+    height: 580px;
+  }
+
+  .online-education-fact .elh-counter-group .elh-counter-item + .elh-counter-item {
+    margin-left: 30px;
+  }
+
+  .elh-category-post-wrap .col-xs-6 {
+    width: 100%;
+  }
+  .elh-category-post-wrap .col-xs-6 + .col-xs-6 {
+    margin-top: 30px;
+  }
+
+  .elh-post-by-category .elh-post {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .campuses-wrap .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-campus-item {
+    margin: 0 auto 30px;
+    max-width: 370px;
+  }
+
+  .post-pagination .page-numbers {
+    height: 30px;
+    width: 30px;
+    line-height: 28px;
+  }
+  .post-pagination .page-numbers + .page-numbers {
+    margin-left: 6px;
+  }
+
+  .elh-course-curriculum {
+    padding: 15px 10px;
+  }
+
+  .elh-course-body {
+    padding: 15px;
+  }
+
+  .elh-course-single-instructor .elh-section-header {
+    padding: 15px 15px 0;
+  }
+
+  .elh-course-single-instructor .elh-course-instructor-box {
+    padding: 0 15px 15px;
+  }
+
+  .elh-course-single-instructor .elh-course-instructor-box + .elh-course-instructor-box {
+    padding-top: 15px;
+  }
+
+  .elh-course-student-feedback {
+    padding: 15px;
+  }
+
+  .elh-student-course-tab .nav-tabs > li > a {
+    padding: 10px 30px;
+  }
+
+  .elh-student-course-tab .col-xs-6 {
+    width: 100%;
+  }
+
+  .navbar.navbar-lesson {
+    padding: 10px 0;
+  }
+  .navbar.navbar-lesson .elh-current-lesson .elh-current-lesson-title {
+    font-size: 1rem;
+  }
+  .navbar.navbar-lesson .elh-current-lesson .elh-current-lesson-number {
+    font-size: 1rem;
+  }
+  .navbar.navbar-lesson .btn {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+  }
+
+  .plyr--video .plyr__controls {
+    padding: 10px;
+  }
+}
+@media screen and (max-width: 479px) {
+  .elh-category-tiles .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-subscribe-form {
+    width: 100%;
+    text-align: center;
+  }
+
+  .elh-subscribe-form input:not([type=submit]):not([type=radio]):not([type=checkbox]),
+  .elh-subscribe-form select,
+  .elh-subscribe-form textarea {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .elh-subscribe-form [type=submit] {
+    margin: 0 auto;
+    float: none;
+  }
+
+  .elh-section-header .elh-section-title {
+    font-size: 2.8rem;
+  }
+
+  .elh-cta .elh-overlay {
+    padding: 65px 0;
+  }
+
+  .elh-cta .cta-title br {
+    display: none;
+  }
+
+  .elh-generic-carousel .elh-course {
+    margin: 0 15px !important;
+  }
+
+  .elh-button-group .btn {
+    display: block;
+    width: 160px;
+    text-align: center;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .elh-button-group .btn + .btn {
+    margin-left: 0 !important;
+    margin-top: 10px;
+  }
+  .text-center .elh-button-group .btn {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .text-center .elh-button-group .btn + .btn {
+    margin-left: auto !important;
+  }
+
+  .elh-counter-group .elh-counter-item + .elh-counter-item {
+    margin-left: 20px;
+  }
+  .elh-counter-group .elh-counter-item .elh-fact-number {
+    font-size: 2.8rem;
+  }
+
+  .elh-instructor {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .elh-event .elh-event-date {
+    height: 125px;
+    width: 125px;
+    margin-right: 20px;
+  }
+  .elh-event .elh-event-date + .elh-event-detail {
+    width: calc(100% - 145px);
+    margin-top: 0;
+  }
+  .elh-event .elh-event-date .elh-event-day {
+    font-size: 2.8rem;
+  }
+  .elh-event .elh-event-date .elh-event-month {
+    font-size: 1.4rem;
+  }
+  .elh-event .elh-event-metas span + span {
+    margin-left: 0;
+    display: block;
+  }
+
+  .elh-post {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .elh-register-header .section_count + .section_count {
+    margin-left: 30px;
+  }
+  .elh-register-header .section_count .tcount {
+    font-size: 2.4rem;
+  }
+
+  .elh-categories-small .col-xs-4 {
+    width: 50%;
+  }
+
+  .all-link.style-2 {
+    top: 0;
+    margin-top: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: relative;
+    display: inline-block;
+  }
+
+  .elh-counter-group .elh-counter-item {
+    width: calc(50% - 10px);
+    margin-top: 10px;
+  }
+  .elh-counter-group .elh-counter-item + .elh-counter-item {
+    margin-left: 0;
+  }
+  .elh-counter-group .elh-counter-item:nth-child(2n + 1) {
+    clear: left;
+    margin-left: 0;
+  }
+
+  .partner-logoes.style-2 .partner-logo {
+    width: 50%;
+  }
+
+  .elh-info-boxes .col-xs-6 {
+    width: 100%;
+  }
+
+  .facilities .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-courses-small .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-grid-section .elh-grid-filter {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .elh-grid-section .elh-grid-filter button {
+    display: block;
+    width: 100%;
+  }
+  .elh-grid-section .elh-grid-filter button + button {
+    margin-left: 0;
+    margin-top: 5px;
+  }
+
+  .elh-counter-group.style-3 .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-banner.style-6 .elh-banner-item .banner-content .elh-banner-title {
+    font-size: 2.4rem;
+  }
+  .elh-banner.style-6 .elh-banner-item .banner-content .elh-banner-subtitle {
+    font-size: 1.6rem;
+  }
+  .elh-banner.style-6 .elh-banner-item .banner-content .elh-button-group {
+    margin-top: 15px;
+  }
+
+  .elh-instructor-counter-group .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-objectives .col-xs-6 {
+    width: 100%;
+  }
+
+  .featured-courses .col-xs-6 {
+    width: 100%;
+  }
+
+  .online-education-fact .elh-counter-group .elh-counter-item + .elh-counter-item {
+    margin-left: 0;
+  }
+
+  .elh-gallery.mini-gallery .elh-gallery-item {
+    width: 50%;
+  }
+
+  .tag-items .col-xs-6 {
+    width: 100%;
+  }
+
+  .partner-logoes.style-3 .col-xs-2 {
+    width: 33.333333%;
+  }
+
+  .elh-gallery .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-products .col-xs-6 {
+    width: 100%;
+  }
+
+  .elh-product-single-tab .nav-tabs > li > a {
+    padding: 10px 30px;
+  }
+
+  .review-table .review-head {
+    width: 120px;
+  }
+
+  .panel-group.elh-curriculum-accordion .panel .panel-heading .panel-title a {
+    padding: 8px;
+  }
+
+  .panel-group.elh-curriculum-accordion .panel .panel-heading .panel-title a .elh-chapter-title {
+    width: 100%;
+  }
+
+  .elh-lesson-list .elh-lesson-item > a {
+    padding: 10px;
+  }
+
+  .elh-lesson-list .elh-lesson-item .elh-lesson-preview-link {
+    display: none;
+  }
+
+  .elh-lesson-list .elh-lesson-item .elh-lesson-item-right {
+    width: 45px;
+  }
+
+  .elh-lesson-list .elh-lesson-item .elh-lesson-item-left {
+    width: calc(100% - 45px);
+  }
+
+  .panel-group.elh-curriculum-accordion .panel .panel-heading .panel-title a .elh-chapter-meta {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+
+  .panel-group.elh-curriculum-accordion .panel .panel-heading .panel-title a .elh-chapter-lesson-count {
+    display: block;
+    width: 100%;
+    margin: 0;
+    text-align: left;
+  }
+
+  .panel-group.elh-curriculum-accordion .panel .panel-heading .panel-title a .elh-chapter-duration {
+    display: block;
+    width: 100%;
+    margin: 0;
+    text-align: left;
+  }
+
+  .elh-course-single-instructor .elh-course-instructor-box .elh-course-instructor-thumb + .elh-course-instructor-body {
+    display: block;
+    width: 100%;
+    margin-top: 15px;
+  }
+
+  .elh-course-rating .elh-rating-summery + .elh-rating-counter {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .elh-course-review-item .elh-course-reviewer-thumb + .elh-course-review-body {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .elh-instructor-facts .elh-instructor-fact-item {
+    width: 100%;
+  }
+
+  .elh-student-course-tab .nav-tabs > li {
+    display: block;
+    width: 100%;
+  }
+
+  .elh-lesson-list-wrap .panel-group.elh-curriculum-accordion .panel .panel-heading .panel-title a .elh-chapter-title {
+    width: 100%;
+  }
+}
